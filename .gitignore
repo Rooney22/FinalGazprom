@@ -84,10 +84,10 @@ celerybeat-schedule
 venv/
 ENV/
 
-# Spyder project settings
+# Spyder project settings.py
 .spyderproject
 
-# Rope project settings
+# Rope project settings.py
 .ropeproject
 ### VirtualEnv template
 # Virtualenv
