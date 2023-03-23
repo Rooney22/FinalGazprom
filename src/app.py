@@ -15,9 +15,9 @@ tags_dict = [
 ]
 
 app = FastAPI(
-    title="Знаев Алексей. FinalGazprom",
+    title="Знаев Алексей. Backend",
     description="Финальный проект",
-    version="0.0.1",
+    version="0.1.0",
     openapi_tags=tags_dict,
 )
 
